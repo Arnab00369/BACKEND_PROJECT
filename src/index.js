@@ -3,20 +3,32 @@
 // // Importing dotenv to use environment variables
 
 //Professional Approach
+// require('dotenv').config({
+//    path:'./env'
+// })
+import dotenv from 'dotenv';
+
+
+import connectDB from "./db";
+
 dotenv.config({
-   path:'./env'
+   path: './env'
 })
+
+
+connectDB()
+
 
 import mongoose from "mongoose";
 
 // Importing constants such as DB_NAME or the name of the Platform
 import { DB_NAME } from "./constants";
-import connectDB from "./db";
 
-connectDB()
+// import mongoose from "mongoose";
 
-
-
+// Importing constants such as DB_NAME or the name of the Platform
+// import { DB_NAME } from "./constants";
+// import connectDB from "./db";
 
 
 //1st method: But, still not the professional way to connect to MongoDB
