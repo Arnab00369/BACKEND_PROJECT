@@ -1,0 +1,19 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "A Backend Project Professional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "expressjs",
+    "frontend",
+    "backend",
+    "project"
+  ],
+  "author": "Arnab Jana",
+  "license": "ISC"
+}
