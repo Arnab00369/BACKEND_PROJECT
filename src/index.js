@@ -1,3 +1,12 @@
+//Traditional Approach with inconsistent code
+// require("dotenv").config({path: './env'}); 
+// // Importing dotenv to use environment variables
+
+//Professional Approach
+dotenv.config({
+   path:'./env'
+})
+
 import mongoose from "mongoose";
 
 // Importing constants such as DB_NAME or the name of the Platform
