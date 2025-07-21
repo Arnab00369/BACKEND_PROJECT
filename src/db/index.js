@@ -1,14 +1,12 @@
 //Method 2: (Professional approach) Do all codes in DB file and then import
 
 import mongoose from "mongoose";
-import { DB_NAME } from "../constants";
+import { DB_NAME } from "../constants.js";
 
 
 const connectDB = async () => {
    try {
-      const connectionInstance = await mongoose.connect
-
-      await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`);
+      const connectionInstance = await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`);
       // Log the connection instance to confirm successful connection
          console.log(`\n MongoDB Connected !! DB Host: ${connectionInstance}`);
       
@@ -19,5 +17,5 @@ const connectDB = async () => {
    }
 }
 
-export default connectDB;
+export default connectDB
 // Export the connectDB function to use it in other files

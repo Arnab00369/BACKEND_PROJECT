@@ -7,22 +7,21 @@
 //    path:'./env'
 // })
 import dotenv from 'dotenv';
+import connectDB from './db/index.js';// Importing the connectDB function from db/index.js
 
-
-import connectDB from "./db";
 
 dotenv.config({
-   path: './env'
-})
+   path: './.env'
+});
 
 
-connectDB()
+connectDB();
 
 
-import mongoose from "mongoose";
+// import mongoose from "mongoose";
 
 // Importing constants such as DB_NAME or the name of the Platform
-import { DB_NAME } from "./constants";
+// import { DB_NAME } from "./constants";
 
 // import mongoose from "mongoose";
 
