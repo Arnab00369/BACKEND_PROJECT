@@ -2,7 +2,16 @@ import mongoose from "mongoose";
 
 // Importing constants such as DB_NAME or the name of the Platform
 import { DB_NAME } from "./constants";
+import connectDB from "./db";
 
+connectDB()
+
+
+
+
+
+//1st method: But, still not the professional way to connect to MongoDB
+/*
 import express from 'express';
 const app = express();
 //Using IIFE JS Function --> using 'async'
@@ -29,7 +38,7 @@ const app = express();
       console.error("Error connecting to MongoDB:", error);
       throw error; // Re-throw the error to handle it later
    }
-})()
+})()*/
 
 
 
