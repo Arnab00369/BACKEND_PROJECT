@@ -9,7 +9,7 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
 ![Status](https://img.shields.io/badge/status-Under%20Development-yellow)
 
 ---
-<img src="https://substackcdn.com/image/fetch/$s_!RUXi!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a933717-1d59-46a6-ba51-76e24ae048fc_1280x1502.gif" alt="Preview" width="400" height="500">
+
 
 
 ## 📽️ Preview
