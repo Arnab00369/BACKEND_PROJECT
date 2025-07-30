@@ -1,4 +1,4 @@
-# 🎬 YouTube Backend Clone API 🚀
+# 🎬 VideoTube - A Youtube like Backend Platform 🚀
 
 A full-fledged 🔙 backend project that powers the core functionalities of a YouTube-like platform. This includes video upload & streaming APIs, user authentication, likes/dislikes, comments, subscriptions, and more. Built with **Node.js**, **Express**, and **MongoDB**.
 
@@ -26,7 +26,7 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
 | ⚫ **Express.js** | Web framework |
 | 🍃 **MongoDB + Mongoose** | Database & ODM |
 | 🔐 **JWT** | Authentication |
-| 📁 **Multer** | File upload handling |
+
 | 🌐 **Postman** | API testing |
 | 📦 **Nodemon** | Dev server |
 
