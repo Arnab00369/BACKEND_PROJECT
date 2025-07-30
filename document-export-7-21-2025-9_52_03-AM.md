@@ -1,6 +1,0 @@
-# Backend Project Schema Layout
-
-
-
-
-
