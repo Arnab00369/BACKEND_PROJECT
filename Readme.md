@@ -72,11 +72,15 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
 
   <h2>🖼️ Screenshots</h2>
   <details>
-    <summary>📥 Upload API (Postman)</summary>
+    <summary>🌐 <h3>Server Running at port : 8000</h3></summary>
+      <p><img src="assets/Server_connect_by_app.png"></p>    
+  </details>
+  <details>
+    <summary>📥 <h3>Upload API (Postman)</h3></summary>
     <p><img src="link-to-your-upload-api-screenshot.png" alt="Upload API Screenshot" width="80%"></p>
   </details>
   <details>
-    <summary>🔐 Auth API</summary>
+    <summary>🔐 <h3>Auth API</h3></summary>
     <p><img src="link-to-your-auth-api-screenshot.png" alt="Auth API Screenshot" width="80%"></p>
   </details>
 
