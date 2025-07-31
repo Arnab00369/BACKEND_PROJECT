@@ -71,6 +71,10 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
   </ul>
 
   <h2>🖼️ Screenshots</h2>
+   <details>
+    <summary>🗂️ <h3>Basic Files Setup and Nodemon: </h3></summary>
+      <p><img src="assets/BASIC_SETUP.jpg"></p>    
+  </details>
   <details>
     <summary>🌐 <h3>Server Running at port : 8000</h3></summary>
       <p><img src="assets/Server_connect_by_app.png"></p>    
