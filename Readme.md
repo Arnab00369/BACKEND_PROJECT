@@ -8,6 +8,8 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
 ![REST API](https://img.shields.io/badge/API-RESTful-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-Under%20Development-yellow)
 
+## ✨ Guidelines:
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a933717-1d59-46a6-ba51-76e24ae048fc_1280x1502.gif">
 ---
 
 
@@ -50,3 +52,51 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
 ## 📁 Folder Structure
 
 ![Status](https://img.shields.io/badge/status-Under%20Development-yellow)
+
+<h2>🚧 Future Improvements</h2>
+  <ul>
+    <li>Add playlists feature</li>
+    <li>Add thumbnails using FFmpeg</li>
+    <li>Implement video recommendation system</li>
+    <li>Use Redis for caching views</li>
+  </ul>
+
+  <h2>🧠 Learning Outcomes</h2>
+  <ul>
+    <li>REST API design best practices</li>
+    <li>Middleware in Express</li>
+    <li>Token-based authentication</li>
+    <li>File streaming and security</li>
+    <li>Mongoose data modeling</li>
+  </ul>
+
+  <h2>🖼️ Screenshots</h2>
+  <details>
+    <summary>📥 Upload API (Postman)</summary>
+    <p><img src="link-to-your-upload-api-screenshot.png" alt="Upload API Screenshot" width="80%"></p>
+  </details>
+  <details>
+    <summary>🔐 Auth API</summary>
+    <p><img src="link-to-your-auth-api-screenshot.png" alt="Auth API Screenshot" width="80%"></p>
+  </details>
+
+  <h2>🤝 Contributing</h2>
+  <p>Feel free to <strong>fork</strong> this repo and submit a pull request! For major changes, please open an issue first to discuss what you'd like to change.</p>
+
+  <h2>📜 License</h2>
+  <p>This project is licensed under the <strong>MIT License</strong>.</p>
+
+  <h2>✉️ Contact</h2>
+  <p>
+    📧 <strong><a href="mailto:your.email@example.com">arnab003jn.369@gmail.com</a></strong><br>
+    🌐 <strong><a href="https://yourportfolio.com" target="_blank">Portfolio Website</a></strong>
+  </p>
+
+  <hr>
+  <blockquote><em>“Backend is the brain of every great platform.”</em></blockquote>
+
+</body>
+</html>
+
+
+“Backend is the brain of every great platform.”
