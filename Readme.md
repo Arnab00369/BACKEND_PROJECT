@@ -76,13 +76,14 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
       <p><img src="assets/BASIC_SETUP.jpg"></p>    
   </details>
   <details>
-    <summary>🗂️ 🛠️ <h3>App file updation with 🌐 🔄 🛡️ CORS and 🍪 🔍 🔐 Cookie-Parser</h3></summary>
+   <summary>🌐 <h3>Server Connection using PORT: 8000</h3></summary>
       <p><img src="assets/Server_connect_by_app.png"></p>    
   </details>
   <details>
-    <summary>🗂️ <h3>Basic Files Setup and Nodemon: </h3></summary>
-      <p><img src="assets/BASIC_SETUP.jpg"></p>    
+    <summary>🗂️ 🛠️ <h3>App file updation with 🌐 🔄 🛡️ CORS and 🍪 🔍 🔐 Cookie-Parser</h3></summary>
+      <p><img src="assets/CORS_COOKIE_PARSER_APP_UPDATE.png"></p>    
   </details>
+ 
   <details>
     <summary>📥 <h3>Upload API (Postman)</h3></summary>
     <p><img src="link-to-your-upload-api-screenshot.png" alt="Upload API Screenshot" width="80%"></p>
