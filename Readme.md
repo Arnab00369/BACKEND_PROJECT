@@ -82,16 +82,22 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
   <details>
     <summary>🗂️ 🛠️ <h3>App file updation with 🌐 🔄 🛡️ CORS and 🍪 🔍 🔐 Cookie-Parser</h3></summary>
       <p><img src="assets/CORS_COOKIE_PARSER_APP_UPDATE.png"></p>    
-  </details>
+  </details>  
    <details>
     <summary> <h3>Adding Utilities</h3></summary>
      <details>
-       <summary> <h3>Adding Utilities</h3></summary>
-       <p><img src=""></p> 
+       <summary> <h3>Api Error File</h3></summary>
+       <p><img src="assets/API_ERRORS.png"></p> 
      </details>
-      <p><img src=""></p>    
-  </details>
- 
+     <details>
+       <summary> <h3>Api Response File</h3></summary>
+       <p><img src="assets/API_RESPONSE.png"></p> 
+     </details>
+     <details>
+       <summary> <h3>Async Handler File</h3></summary>
+       <p><img src="assets/ASYNC_HANDLER.png"></p> 
+     </details>   
+  </details> 
   <details>
     <summary>📥 <h3>Upload API (Postman)</h3></summary>
     <p><img src="link-to-your-upload-api-screenshot.png" alt="Upload API Screenshot" width="80%"></p>
