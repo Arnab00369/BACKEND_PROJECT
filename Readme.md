@@ -84,17 +84,17 @@ A full-fledged 🔙 backend project that powers the core functionalities of a Yo
       <p><img src="assets/CORS_COOKIE_PARSER_APP_UPDATE.png"></p>    
   </details>  
    <details>
-    <summary> <h3>Adding Utilities</h3></summary>
+    <summary>🧰 <h3>Adding Utilities</h3> 🔧 ⚙️</summary>
      <details>
-       <summary> <h3>Api Error File</h3></summary>
+       <summary>🚫 📛 <h3>Api Error File</h3> 🪲 📄❌</summary>
        <p><img src="assets/API_ERRORS.png"></p> 
      </details>
      <details>
-       <summary> <h3>Api Response File</h3></summary>
+       <summary>📨 🔄 <h3>Api Response File</h3> 📄✅ 📊</summary>
        <p><img src="assets/API_RESPONSE.png"></p> 
      </details>
      <details>
-       <summary> <h3>Async Handler File</h3></summary>
+       <summary>⏳ 🔄 <h3>Async Handler File</h3> ⚙️📡 📥</summary>
        <p><img src="assets/ASYNC_HANDLER.png"></p> 
      </details>   
   </details> 
